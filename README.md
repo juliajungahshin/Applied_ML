@@ -9,3 +9,4 @@ Main packages: matplotlib, pandas, numpy, scikit-learn
 
 ##### 2b. Regression on Sydney Housing Dataset
 
+##### 3. Prediction on price of Craigslist Cars & Trucks 
