@@ -19,3 +19,4 @@ Main packages: matplotlib, pandas, numpy, scikit-learn
 
 ##### 5b. Multi-layer Perceptron on Fashion MNIST Dataset
 
+##### 5c. CNN, Resnet50 (with and without Residual Connections) to Classify Cells Infected with Malaria
