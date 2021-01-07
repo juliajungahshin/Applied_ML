@@ -9,4 +9,8 @@ Main packages: matplotlib, pandas, numpy, scikit-learn
 
 ##### 2b. Regression on Sydney Housing Dataset
 
-##### 3. Prediction on price of Craigslist Cars & Trucks 
+##### 3. Prediction on Price of Craigslist Cars & Trucks 
+
+##### 4a. Prediction on Wine Quality using Review Texts (ngram, tf-idf)
+
+##### 4b. Prediction on Wine Quality using Review Texts 
