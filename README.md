@@ -15,4 +15,7 @@ Main packages: matplotlib, pandas, numpy, scikit-learn
 
 ##### 4b. Prediction on Wine Quality using Review Texts * TO BE UPDATED *
 
-##### 5. 
+##### 5a. Multi-layer Perceptron on Digits Dataset (scikit-learn)
+
+##### 5b. Multi-layer Perceptron on Fashion MNIST Dataset
+
