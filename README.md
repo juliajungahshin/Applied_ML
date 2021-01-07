@@ -13,4 +13,6 @@ Main packages: matplotlib, pandas, numpy, scikit-learn
 
 ##### 4a. Prediction on Wine Quality using Review Texts (ngram, tf-idf)
 
-##### 4b. Prediction on Wine Quality using Review Texts 
+##### 4b. Prediction on Wine Quality using Review Texts * TO BE UPDATED *
+
+##### 5. 
